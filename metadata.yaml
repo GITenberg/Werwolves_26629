@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5469
     wikipedia: http://en.wikipedia.org/wiki/Elliott_O%27Donnell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26629#Werwolves
 gutenberg_issued: '2008-09-16'
 gutenberg_type: Text
 identifiers:
